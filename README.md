@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravi Kumawat
 - 👀 I’m interested in ... Java Full Stack
-- 🌱 I’m currently learning ... Spring 
+- 🌱 I’m currently learning ... Spring Framework
 - 💞️ I’m looking to collaborate on ... Open Source
 - 📫 How to reach me ... ravi900kumawat@gmail.com
 
